@@ -1,6 +1,6 @@
 # 作って分かるJavaScriptでデータバインド
 
-## STEP1
+## STEP 1: `subscribe`と`notify`
 
 ### バインディングの魔法
 
