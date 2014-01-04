@@ -70,4 +70,4 @@ var global = this;
 })();
 ```
 
-[>> STEP 1: subscribeとnotify](step1/README.md)
+[>> STEP 1: subscribeとnotify](../step1/README.md)

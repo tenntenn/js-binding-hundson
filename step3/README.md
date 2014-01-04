@@ -135,6 +135,6 @@ KnockoutJSの`ko.dependencyDetection`は、前述の依存関係の検出を行�
 
 `observable`オブジェクトの値が読み込まれた時に、`go.dependencyDetection.registerDependency`が呼び出されているのが分かります。また、1度登録された`observable`オブジェクトは重複して登録されていません。これで十分に動くように見えますが、実はうまく動きません。しかし、`dependentObservable`(`computed`)を実装する際に、必要となってくるので、ここはこのまま進みましょう。
 
-[<< STEP 2: 値の更新を通知するオブジェクト](step2/README.md)
+[<< STEP 2: 値の更新を通知するオブジェクト](../step2/README.md)
 
-[>> STEP 4: 計算結果の変更を検出する](step4/README.md)
+[>> STEP 4: 計算結果の変更を検出する](../step4/README.md)

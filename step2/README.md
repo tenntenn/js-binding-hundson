@@ -81,6 +81,6 @@ console.log(foo());
 
 値が新しい値に変更された場合のみ、通知が行なわれていることが分かります。
 
-[<< STEP 1: subscribeとnotify](step1/README.md)
+[<< STEP 1: subscribeとnotify](../step1/README.md)
 
-[>> STEP 3: 依存関係の検出とdependencyDetection](step3/README.md)
+[>> STEP 3: 依存関係の検出とdependencyDetection](../step3/README.md)
