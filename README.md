@@ -27,5 +27,9 @@ JavaScriptにおけるデータバインドの実装方法を双方向データ�
 
 ## 目次
 
-* [STEP0 前準備](step0/README.md)
-* [STEP1 subscribeとnotify](step1/README.md)
+* [STEP 0: 前準備](step0/README.md)
+* [STEP 1: subscribeとnotify](step1/README.md)
+* [STEP 2: 値の更新を通知するオブジェクト](step2/README.md)
+* [STEP 3: 依存関係の検出とdependencyDetection](step3/README.md)
+* [STEP 4: 計算結果の変更を検出する](step4/README.md)
+* [STEP 5: 問題点の改善](step5/README.md)

@@ -111,3 +111,7 @@ KnockoutJSのソースコードを参考にしながら、`TODO`を埋めてい�
 * "hoge"
 
 コメントにも書かれていますが、1回目の`notifySubscripters`では、`subscription`の`callback`に通知されます。しかし、2回目は通知する`subscripter`がないので、どのオブジェクトにも通知されません。
+
+[<< STEP 0: 前準備](step0/README.md)
+
+[>> STEP 2: 値の更新を通知するオブジェクト](step2/README.md)

@@ -69,3 +69,5 @@ var global = this;
   go.extend = extend;
 })();
 ```
+
+[>> STEP 1: subscribeとnotify](step1/README.md)
