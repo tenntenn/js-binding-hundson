@@ -23,7 +23,7 @@ JavaScriptにおけるデータバインドの実装方法を双方向データ�
 
 また、この説明はQiitaにもまとめています。
 
-* http://qiita.com/tenntenn/55fd8fc98cf29b1e43e5 
+* http://qiita.com/tenntenn/items/55fd8fc98cf29b1e43e5
 
 ## 目次
 
